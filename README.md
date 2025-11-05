@@ -113,9 +113,7 @@ Trained for **5 epochs** with a **batch size of 64**, tracking both training and
 ## 📚 Reference
 
 * Shayan Fazeli and M. Sarrafzadeh, *“Heartbeat Classification Using Deep Learning Techniques”*, Kaggle, MIT-BIH Dataset.
-* [Original Paper Link (if applicable)](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
-
----
+-
 
 ## 👤 Author
 
